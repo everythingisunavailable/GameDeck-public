@@ -17,5 +17,5 @@ Game Deck is a website that simulates a game hosting platform simular to itch.io
 
 
 ##  Links
-![Game Deck](gamedeck.synergize.co)
+[Game Deck](gamedeck.synergize.co)
 
